@@ -141,10 +141,14 @@ p {
 
 /*CTA Section*/
 
-
 /*Footer Section*/
 .footerIcon {
     margin: 1%;
+    color: #3d3d3d;
+}
+
+.footerIcon:hover {
+    color: #8f8f8f;
 }
 
 /*Changes For Mobile*/
